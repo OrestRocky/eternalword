@@ -1,0 +1,10 @@
+{
+  "project": "EternalWord",
+  "description": "A decentralized preservation of the Holy Bible using IPFS and blockchain.",
+  "version": "0.1",
+  "created_by": "Orest Yatskuliak",
+  "languages": ["English", "Ukrainian"],
+  "ipfs_status": "In progress",
+  "blockchain_status": "Planned",
+  "website": "Coming soon"
+}
